@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @impartac
 - 👀 I’m interested in AI and ML.
 - 🌱 I’m currently learning NLP,LLM and generative AI.
-- ⚡ Fun fact: I hate HTML)
 - ☣️ https://shikimori.one/partac/list/anime?order=rate_score -> me
 - Links :
 - https://t.me/zesadesamurai
