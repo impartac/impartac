@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NLP,LLM and generative AI.
 - ☣️ https://shikimori.one/partac/list/anime?order=rate_score -> me
 - Links :
-- https://t.me/zesadesamurai
+- https://t.me/impartac
 - https://vk.com/never_ssleep
 
 <!---
